@@ -1,0 +1,105 @@
+﻿  Turan_CBinding.cpp
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(13,59): warning C4244: 'bağımsız değişken': 'double' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(13,46): warning C4244: 'bağımsız değişken': 'double' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(216,44): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(216,30): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(217,100): warning C4244: 'bağımsız değişken': 'double' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(217,85): warning C4244: 'bağımsız değişken': 'double' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(217,65): warning C4244: 'bağımsız değişken': 'double' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(217,45): warning C4244: 'bağımsız değişken': 'double' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(230,47): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(230,32): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(231,105): warning C4244: 'bağımsız değişken': 'double' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(231,89): warning C4244: 'bağımsız değişken': 'double' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(231,68): warning C4244: 'bağımsız değişken': 'double' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(231,47): warning C4244: 'bağımsız değişken': 'double' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(232,47): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(232,32): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(233,105): warning C4244: 'bağımsız değişken': 'double' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(233,89): warning C4244: 'bağımsız değişken': 'double' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(233,68): warning C4244: 'bağımsız değişken': 'double' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(233,47): warning C4244: 'bağımsız değişken': 'double' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(239,44): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(239,30): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(240,100): warning C4244: 'bağımsız değişken': 'double' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(240,85): warning C4244: 'bağımsız değişken': 'double' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(240,65): warning C4244: 'bağımsız değişken': 'double' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+C:\Users\ACER\Desktop\Proje Final\Graphics\Turan_CBinding.cpp(240,45): warning C4244: 'bağımsız değişken': 'double' - 'T' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+  Source.c
+C:\Users\ACER\Desktop\Proje Final\Source.c(153,1): warning C4244: 'başlatılıyor': 'double' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Source.c(154,1): warning C4244: 'başlatılıyor': 'double' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Source.c(179,54): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Source.c(179,80): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Source.c(199,18): warning C4244: 'işlev': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Source.c(267,1): warning C4244: 'başlatılıyor': 'double' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Source.c(648,1): warning C4244: 'başlatılıyor': 'double' - 'unsigned char' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Source.c(665,1): warning C4244: 'başlatılıyor': 'double' - 'unsigned char' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Source.c(686,1): warning C4244: 'başlatılıyor': 'double' - 'unsigned char' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Source.c(703,1): warning C4244: 'başlatılıyor': 'double' - 'unsigned char' dönüşümü; veri kaybı olabilir
+C:\Users\ACER\Desktop\Proje Final\Source.c(168): warning C4715: 'CollideTopwithTexture': tüm denetim yolları değer döndürmez
+  LINK : C:\Users\ACER\Desktop\Proje Final\bin\Debug\GameProject.exe bulunamadı veya son artımlı bağlantı tarafından oluşturulmadı; tam bağlantı gerçekleştiriliyor
+  GameProject.vcxproj -> C:\Users\ACER\Desktop\Proje Final\bin\Debug\GameProject.exe
