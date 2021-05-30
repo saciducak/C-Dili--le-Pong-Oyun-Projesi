@@ -9,6 +9,9 @@ Gameloopfunc GAMELOOP = nullptr;
 sf::RenderWindow* Window = nullptr;
 
 
+unsigned int ShouldCloseApplication() {
+	return !Window->isOpen();
+}
 void Start_GameEngine(void(*Setup_funcptr)(), void(*GameLoop)(unsigned char isTwoPlayer)) {
 	Window = new sf::RenderWindow(sf::VideoMode(SCREENWIDTH, SCREENHEIGHT), "Game");
 	Window->setFramerateLimit(30);
@@ -55,7 +58,7 @@ void Start_GameEngine(void(*Setup_funcptr)(), void(*GameLoop)(unsigned char isTw
 	TwoPlayerButton->PosX = 130;
 	TwoPlayerButton->PosY = 150;
 
-	//Waiting for the start loop
+	//Baslatmayi bekliyoruz
 	bool isStartPressed = false, isMouseLeftClickPressed = false;
 	while (!isStartPressed) {
 		StartFrame_Graphics();
@@ -219,9 +222,6 @@ void ShowImage(struct Sprite* sprite) {
 }
 void EndFrame_Graphics() {
 	Window->display();
-}
-unsigned int ShouldCloseApplication() {
-	return !Window->isOpen();
 }
 unsigned int DoesTexturesCollide(struct Sprite* Sprite1, struct Sprite* Sprite2) {
 	sf::Sprite* sfSprite1 = (sf::Sprite*)Sprite1->sfSprite;
