@@ -36,7 +36,7 @@ struct block {
 	struct Sprite* sprite;
 	enum BlockType type;
 };
-#define MAXIMUMACTIVEBLOCKCOUNT 50
+#define MAXIMUMACTIVEBLOCKCOUNT 12
 unsigned int CountOfActiveBlocks = 0, BlockWidth = 40, BlockHeight = 23;
 struct block blocks[MAXIMUMACTIVEBLOCKCOUNT];
 
